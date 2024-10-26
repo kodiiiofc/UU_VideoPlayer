@@ -18,3 +18,6 @@
 
 ## Видео к домашнему заданию по теме "VideoView"
 
+https://github.com/user-attachments/assets/d31ef732-72e1-4177-9b8b-4e22e389c2cc
+
+
